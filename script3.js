@@ -3,7 +3,7 @@ document.getElementById('bt_tarefa').addEventListener('click', addTarefa)
 // inicializar uma lista vazia
 
 // verificar se existe uma lista no local storage
-
+asdsafasf asd asfa sdas dasf 
 // fazer um laçõ for pra cada tarefa, chamar a func addTarefa
 
 // quando add uma tarefa, add no local storage também
